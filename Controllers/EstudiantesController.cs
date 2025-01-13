@@ -28,7 +28,7 @@ namespace Api.Controllers
         {
             try
             {
-                return Ok(await _estudiantesSer.ListEstudiantes(null));
+                return Ok(await _estudiantesSer.ListEstudiantes(x=> x.Estado == true));
             }
             catch (Exception ex)
             {
@@ -64,6 +64,8 @@ namespace Api.Controllers
         /// <returns>Devuelve el modelo que se envio</returns>
         // POST api/<EstudiantesController>
         [HttpPost]
+        [Consumes("application/json")]
+
         public async Task<ActionResult<Estudiantes>> Post([FromBody] Estudiantes value)
         {
             try

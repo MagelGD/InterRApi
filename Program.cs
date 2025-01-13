@@ -4,12 +4,18 @@ using Api.Services.ConfigurarServices;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
+using System.Text.Json;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
+    });
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 #region CORS
@@ -18,7 +24,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowSpecificOrigin",
         policy =>
         {
-            policy.WithOrigins("https://localhost:44373") // Especifica el origen permitido
+            policy.WithOrigins("http://localhost:4200") // Especifica el origen permitido
                   .AllowAnyHeader()
                   .AllowAnyMethod()
                   .AllowCredentials(); // Permite cookies, autenticación, etc.

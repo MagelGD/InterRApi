@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\data\\repositories\\implementaciones\\estudiantesimp\\estudiantesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:data\\repositories\\implementaciones\\estudiantesimp\\estudiantesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\data\\models\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:data\\models\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\services\\implementaciones\\estudiantesimp\\estudiantesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:services\\implementaciones\\estudiantesimp\\estudiantesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\data\\repositories\\implementaciones\\inscripcionesimp\\inscripcionesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:data\\repositories\\implementaciones\\inscripcionesimp\\inscripcionesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:controllers\\inscripcionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:controllers\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\data\\repositories\\implementaciones\\inscripcionesimp\\inscripcionesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:data\\repositories\\implementaciones\\inscripcionesimp\\inscripcionesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\services\\configurarservices\\configurarservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\services\\implementaciones\\inscripcionesimp\\inscripcionesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:services\\implementaciones\\inscripcionesimp\\inscripcionesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\services\\implementaciones\\estudiantesimp\\estudiantesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|solutionrelative:services\\implementaciones\\estudiantesimp\\estudiantesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85EAFA1B-277A-4C75-831D-DD26EEBE4E68}|Api.csproj|c:\\users\\noah owen\\documents\\prueba interrapidisimo\\api\\magelgd\\interrapi\\services\\implementaciones\\asignacionesimp\\asignacionesimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,24 +118,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Models\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Estudiantes.cs",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Models\\Estudiantes.cs",
+              "RelativeToolTip": "Data\\Models\\Estudiantes.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T01:57:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T03:32:58.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudiantesImp.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
+              "RelativeToolTip": "Data\\Repositories\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T03:31:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T03:23:36.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Api.csproj",
+              "RelativeDocumentMoniker": "Api.csproj",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Api.csproj",
+              "RelativeToolTip": "Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-11T02:28:19.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InscripcionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\InscripcionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InscripcionesController.cs",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\InscripcionesController.cs",
+              "RelativeToolTip": "Controllers\\InscripcionesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:43:35.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsignacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\AsignacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AsignacionesController.cs",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\AsignacionesController.cs",
+              "RelativeToolTip": "Controllers\\AsignacionesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:21:13.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfesoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\ProfesoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfesoresController.cs",
+              "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\ProfesoresController.cs",
+              "RelativeToolTip": "Controllers\\ProfesoresController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T16:11:05.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MateriasController.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\MateriasController.cs",
               "RelativeDocumentMoniker": "Controllers\\MateriasController.cs",
               "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\MateriasController.cs",
               "RelativeToolTip": "Controllers\\MateriasController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:59:20.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T15:59:20.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "InscripcionesImp.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Implementaciones\\InscripcionesImp\\InscripcionesImp.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Implementaciones\\InscripcionesImp\\InscripcionesImp.cs",
@@ -111,24 +240,24 @@
               "RelativeToolTip": "Data\\Repositories\\Implementaciones\\InscripcionesImp\\InscripcionesImp.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAYwBgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:23:13.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T15:23:13.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EstudiantesController.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\EstudiantesController.cs",
               "RelativeDocumentMoniker": "Controllers\\EstudiantesController.cs",
               "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Controllers\\EstudiantesController.cs",
               "RelativeToolTip": "Controllers\\EstudiantesController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB4AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T15:09:20.52Z"
+              "WhenOpened": "2025-01-10T15:09:20.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "ConfigurarServices.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\ConfigurarServices\\ConfigurarServices.cs",
               "RelativeDocumentMoniker": "Services\\ConfigurarServices\\ConfigurarServices.cs",
@@ -140,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "ProfesoresImp.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Implementaciones\\ProfesoresImp\\ProfesoresImp.cs",
               "RelativeDocumentMoniker": "Services\\Implementaciones\\ProfesoresImp\\ProfesoresImp.cs",
@@ -152,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "MateriasImp.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Implementaciones\\MateriasImp\\MateriasImp.cs",
               "RelativeDocumentMoniker": "Services\\Implementaciones\\MateriasImp\\MateriasImp.cs",
@@ -164,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "InscripcionesImp.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Implementaciones\\InscripcionesImp\\InscripcionesImp.cs",
               "RelativeDocumentMoniker": "Services\\Implementaciones\\InscripcionesImp\\InscripcionesImp.cs",
@@ -176,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "AsignacionesImp.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Implementaciones\\AsignacionesImp\\AsignacionesImp.cs",
               "RelativeDocumentMoniker": "Services\\Implementaciones\\AsignacionesImp\\AsignacionesImp.cs",
@@ -188,19 +317,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "EstudiantesImp.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
               "RelativeDocumentMoniker": "Services\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
               "ToolTip": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
               "RelativeToolTip": "Services\\Implementaciones\\EstudiantesImp\\EstudiantesImp.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:29:34.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "IProfesoresRep.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Interfaces\\ProfesoresRep\\IProfesoresRep.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\ProfesoresRep\\IProfesoresRep.cs",
@@ -212,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "IProfesoresSer.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Interfaces\\ProfesoresSer\\IProfesoresSer.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ProfesoresSer\\IProfesoresSer.cs",
@@ -224,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "IMateriasRep.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Interfaces\\MateriasRep\\IMateriasRep.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\MateriasRep\\IMateriasRep.cs",
@@ -236,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "IMateriasSer.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Interfaces\\MateriasSer\\IMateriasSer.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\MateriasSer\\IMateriasSer.cs",
@@ -248,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "IAsignacionesRep.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Interfaces\\AsginacionesRep\\IAsignacionesRep.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\AsginacionesRep\\IAsignacionesRep.cs",
@@ -260,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "IAsignacionesSer.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Interfaces\\AsigncacionesSer\\IAsignacionesSer.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\AsigncacionesSer\\IAsignacionesSer.cs",
@@ -272,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "IInscripcionesRep.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Interfaces\\InscripcionesRep\\IInscripcionesRep.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\InscripcionesRep\\IInscripcionesRep.cs",
@@ -284,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "IInscripcionesSer.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Interfaces\\InscripcionesSer\\IInscripcionesSer.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\InscripcionesSer\\IInscripcionesSer.cs",
@@ -296,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "IEstudiantesRep.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Data\\Repositories\\Interfaces\\EstudiantesRep\\IEstudiantesRep.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\EstudiantesRep\\IEstudiantesRep.cs",
@@ -308,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "IEstudiantesSer.cs",
               "DocumentMoniker": "C:\\Users\\Noah Owen\\Documents\\Prueba Interrapidisimo\\Api\\MagelGD\\InterRApi\\Services\\Interfaces\\EstudiantesSer\\IEstudiantesSer.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\EstudiantesSer\\IEstudiantesSer.cs",

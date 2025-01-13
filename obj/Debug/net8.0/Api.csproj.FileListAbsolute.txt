@@ -152,3 +152,5 @@ C:\Users\Noah Owen\Documents\Prueba Interrapidisimo\Api\MagelGD\InterRApi\obj\De
 C:\Users\Noah Owen\Documents\Prueba Interrapidisimo\Api\MagelGD\InterRApi\obj\Debug\net8.0\Api.pdb
 C:\Users\Noah Owen\Documents\Prueba Interrapidisimo\Api\MagelGD\InterRApi\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\Users\Noah Owen\Documents\Prueba Interrapidisimo\Api\MagelGD\InterRApi\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Noah Owen\Documents\Prueba Interrapidisimo\Api\MagelGD\InterRApi\bin\Debug\net8.0\Api.xml
+C:\Users\Noah Owen\Documents\Prueba Interrapidisimo\Api\MagelGD\InterRApi\obj\Debug\net8.0\Api.xml

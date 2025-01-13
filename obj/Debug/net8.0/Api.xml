@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.AsignacionesController.Get">
+            <summary>
+            Metodo para listar las asignaciones
+            </summary>
+            <returns>Devuelve una lista</returns>
+        </member>
+        <member name="M:Api.Controllers.AsignacionesController.Get(System.Int32)">
+            <summary>
+            Metodo para seleccionar una asignacion especifica
+            </summary>
+            <param name="id">id de la asignacion</param>
+            <returns>Devuelve el modelo de la seleccion especifica </returns>
+        </member>
+        <member name="M:Api.Controllers.AsignacionesController.Post(Api.Data.Models.Asignaciones)">
+            <summary>
+            Metodo para actualizar o agregar un registro nuevo
+            </summary>
+            <param name="value">modelo para actualizar o agregar</param>
+            <returns>Devuelve el modelo actualizado o agregado</returns>
+        </member>
+        <member name="M:Api.Controllers.EstudiantesController.Get">
+            <summary>
+            Metodo para seleccionar todos los estudiantes
+            </summary>
+            <returns>List Estudiantes</returns>
+        </member>
+        <member name="M:Api.Controllers.EstudiantesController.Get(System.Int32)">
+            <summary>
+            Metodo para Selecionar un estudiante Especifico
+            </summary>
+            <param name="id">Id Estudiante</param>
+            <returns>Un Estudiante especifico</returns>
+        </member>
+        <member name="M:Api.Controllers.EstudiantesController.Post(Api.Data.Models.Estudiantes)">
+            <summary>
+            Metodo para actualizar o agrega un estudiante nuevo
+            </summary>
+            <param name="value">Modelo a guardar</param>
+            <returns>Devuelve el modelo que se envio</returns>
+        </member>
+        <member name="M:Api.Controllers.InscripcionesController.Get">
+            <summary>
+            Metodo para listar las inscripciones
+            </summary>
+            <returns>Devuelve una lista de las inscripciones</returns>
+        </member>
+        <member name="M:Api.Controllers.InscripcionesController.Get(System.Int32)">
+            <summary>
+            Metodo para seleccionar una inscripcion especifica
+            </summary>
+            <param name="id">id de la inscripcion especifica</param>
+            <returns>Devuelve el modelo de la inscripcion especifica</returns>
+        </member>
+        <member name="M:Api.Controllers.InscripcionesController.Post(Api.Data.Models.Inscripciones)">
+            <summary>
+            Metodo para actualizar o agregar un nuevo modelo de inscripcion
+            </summary>
+            <param name="value">Modelo para actualizar o agregar</param>
+            <returns>Devuelve el modelo el cual actualizo o agrego</returns>
+        </member>
+        <member name="M:Api.Controllers.MateriasController.Get">
+            <summary>
+            Metodo para listar todas las materias
+            </summary>
+            <returns>Devuele una lista de materias</returns>
+        </member>
+        <member name="M:Api.Controllers.MateriasController.Get(System.Int32)">
+            <summary>
+            Metodo que devuelve una materia especifica
+            </summary>
+            <param name="id">Id de materia</param>
+            <returns>Devuelve un modelo de materia especifico</returns>
+        </member>
+        <member name="M:Api.Controllers.MateriasController.Post(Api.Data.Models.Materias)">
+            <summary>
+            Metodo para actualizar o agregar una materia nueva
+            </summary>
+            <param name="value">Modelo agregar o actualizar</param>
+            <returns>Devuelve el modelo</returns>
+        </member>
+        <member name="M:Api.Controllers.ProfesoresController.Get">
+            <summary>
+            Metodo para listar todos los profesores
+            </summary>
+            <returns>Devuelve una lista</returns>
+        </member>
+        <member name="M:Api.Controllers.ProfesoresController.Get(System.Int32)">
+            <summary>
+            Metodo para seleccionar profesor especificamente
+            </summary>
+            <param name="id">id de profesor a selecionar</param>
+            <returns>devuelve el modelo del profesor seleccionado</returns>
+        </member>
+        <member name="M:Api.Controllers.ProfesoresController.Post(Api.Data.Models.Profesores)">
+            <summary>
+            Metodo para actualizar o agregar un nuevo registro en la tabla profesores
+            </summary>
+            <param name="value">Modelo de profesores</param>
+            <returns>Devuelve el modelo agregado o actualizado</returns>
+        </member>
+    </members>
+</doc>

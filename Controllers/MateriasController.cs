@@ -23,7 +23,7 @@ namespace Api.Controllers
         /// <returns>Devuele una lista de materias</returns>
         // GET: api/<MateriasController>
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Materias> Get()
+        public async Task<ActionResult<IEnumerable<Materias>>> Get()
         {
             try
             {
